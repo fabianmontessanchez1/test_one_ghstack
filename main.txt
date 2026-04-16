@@ -1,6 +1,5 @@
-﻿line from main
-Nivel 1: Setup inicial
-Nivel 2: Business logic
-Nivel 3: API endpoints
-Nivel 4: Docs
-UPDATE: Validation added
+line main branch
+line 1  
+line 2  
+line 3  
+line 4  
