@@ -1,5 +1,5 @@
 line main branch
 line 1 A  
-line 2  
+line 2 B  
 line 3  
 line 4  
