@@ -2,3 +2,6 @@ line from main
 Nivel 1: Setup inicial
 Nivel 2: Business logic
 Nivel 3: API endpoints
+Nivel 4: Docs
+UPDATE: Validation added
+FORCING UPDATE: 04/15/2026 19:24:24
