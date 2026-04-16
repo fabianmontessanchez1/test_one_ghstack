@@ -2,4 +2,4 @@ line main branch
 line 1 A  
 line 2 B  
 line 3 C  
-line 4  
+line 4 D  
