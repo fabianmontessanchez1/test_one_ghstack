@@ -1,3 +1,4 @@
 ﻿line from main
 Nivel 1: Setup inicial
 Nivel 2: Business logic
+UPDATE: Validation added to Level 2
